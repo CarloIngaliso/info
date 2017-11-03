@@ -1,47 +1,4 @@
-Skip to content
-
-
-This repository
- 
-Pull requests 
-Issues 
-Marketplace 
-Explore 
-
-
-
-Sign out 
-
-
- Watch 
-0 
- Star 
-0 
- Fork 
-0 
-
-ObZenTish/INFORMATICA_4IC 
- Code 
- Issues 0 
- Pull requests 0 
- Projects 0 
- Wiki 
- Insights 
-Branch: master 
-Find file 
-Copy path
-INFORMATICA_4IC/Project NetBeans/102317_Verifica/stops.txt 
-980dfff 4 days ago 
- ObZenTish Update 
-1 contributor 
- 
-Raw
-Blame
-History
-   
-2360 lines (2359 sloc) 112 KB 
-
-?stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
 
 1220,,Cabina Enel,,45.479767,12.285228,,,,,,
 
@@ -2423,7 +2380,7 @@ History
 
 2809,,P.zza Aldo Moro,,45.571938,12.108411,,,,,,
 
-2810,,P.zza 1¿ Maggio,,45.572460,12.108077,,,,,,
+2810,,P.zza 1Â¿ Maggio,,45.572460,12.108077,,,,,,
 
 2811,,Civico 71,,45.578136,12.081274,,,,,,
 
@@ -4758,7 +4715,7 @@ History
 2582,,Ca' Bozza,,45.517246,12.112377,,,,,,
 
 2583,,Ca' Bozza,,45.517242,12.111902,,,,,,
-© 2017 GitHub, Inc.
+Â© 2017 GitHub, Inc.
 Terms
 Privacy
 Security
